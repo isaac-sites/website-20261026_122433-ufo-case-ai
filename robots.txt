@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ufo-case-ai.branchoria.com/sitemap.xml

@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.2",
+  "site": {
+    "id": "ufo-case-ai",
+    "identity_source": "site_id",
+    "network": "isaackoi",
+    "title": "UFO Case Lab",
+    "canonical_url": "https://ufo-case-ai.branchoria.com",
+    "description": "Practical guides on UFO Case Lab, organized for fast browsing and comparison.",
+    "primary_focus_id": "ufo",
+    "focus_ids": [
+      "ufo"
+    ],
+    "primary_topic_ids": [],
+    "primary_subject_ids": []
+  },
+  "release_id": "release-e2b826c41de117adc733",
+  "previous_release_id": "",
+  "generated_at": "2026-10-22T20:38:48Z",
+  "entity_entrypoints": [],
+  "pages": [
+    {
+      "id": "ufo-case-ai:page:54303296570efb529fcbb7b0",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/ai-assisted-ufo-sighting-investigation/",
+      "title": "Can AI Help Explain a Mysterious UFO Sighting?",
+      "summary": "AI-assisted UFO sighting investigation uses artificial intelligence, automated data searches and evidence comparison to determine what might explain a specific sighting.",
+      "hierarchy": {
+        "level": 1,
+        "parent_id": null
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:b3b6a4404840031d71924152405403fae600e64e884c0d0d0b05909ddd821ba5",
+      "reconciliation_fingerprint": "sha256:7d9b9cc0f5c78c49032b8a4eefea7a2140a6dba42eb3986b4770feeb098a8e77",
+      "updated_at": "2026-10-22 20:38:36"
+    },
+    {
+      "id": "ufo-case-ai:page:f8edabcd253efc1f1157aace",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/ai-assisted-ufo-sigh-96e9bc-index/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of AI assisted UFO sighting investigation, covering Sky Checks, Case Files and Unresolved Cases.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-case-ai:page:54303296570efb529fcbb7b0"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ae3776d20d311f2ce18291951974e21cfac9fd36c133b8cd730a30730252135f",
+      "reconciliation_fingerprint": "sha256:6a5dfaea6e7e7e876859bf0a73660ead2608cf666ac80a1145fa50fc46b6e9e9",
+      "updated_at": "2026-10-22"
+    },
+    {
+      "id": "ufo-case-ai:page:94699ea6c0fe90c5c3f99fd3",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-environmental-ch-84b25f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/sky-checks/",
+      "title": "Sky Checks",
+      "summary": "AI can compare a UFO sighting with flight paths, satellite passes, astronomical positions and historical weather to test ordinary explanations.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-case-ai:page:54303296570efb529fcbb7b0"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "sky-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:3ab5636f9160bc4d0aa4bda33ea76893d8cd6cde83e201c821feeaef617a5eac",
+      "reconciliation_fingerprint": "sha256:4f2fe3dce3289c561f418a987d9b4cf2c122b7120e331b82bdc5ec72b449abeb",
+      "updated_at": "2026-10-22 20:38:43"
+    },
+    {
+      "id": "ufo-case-ai:page:3f66dcb8ab199df2d6c2ce08",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-environmental-ch-84b25f-historical-flight-uf-711de4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/aircraft-checks/",
+      "title": "Aircraft Checks",
+      "summary": "Historical flight records can reveal whether an aircraft matched a UFO's reported position, movement and timing, but missing tracks leave uncertainty.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:94699ea6c0fe90c5c3f99fd3"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "sky-checks",
+        "aircraft-checks"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9b2f3e05224d4840a1c2532b95b018faffc500c8dcea5176edc85e081793d1f9",
+      "reconciliation_fingerprint": "sha256:b00da29e990419fd87d564e174fba4d30f8ffe484941ff14176582da97fe554e",
+      "updated_at": "2026-10-22 20:38:42"
+    },
+    {
+      "id": "ufo-case-ai:page:f44ad556dd1a7e3c188bc152",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-environmental-ch-84b25f:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/ai-assisted-ufo-sigh-96e9bc-ufo/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Sky Checks, covering Aircraft Checks and Starlink Sightings.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:94699ea6c0fe90c5c3f99fd3"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:89dfe52306e58b64806ca47179a04a505a0ed0a26634fed454517f213788d537",
+      "reconciliation_fingerprint": "sha256:9ac5dc93bc21d0b8ada67483ad9b754b7eaae8e8f349164282b01282c19e3dd4",
+      "updated_at": "2026-10-22"
+    },
+    {
+      "id": "ufo-case-ai:page:8ac4d66eb46e56d661602aaf",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-environmental-ch-84b25f-starlink-ufo-light-f-ff9dc8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/starlink-sightings/",
+      "title": "Starlink Sightings",
+      "summary": "Starlink satellites can resemble coordinated UFO formations, but their predicted paths and visibility must match the reported lights.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:94699ea6c0fe90c5c3f99fd3"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "sky-checks",
+        "starlink-sightings"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ae5905056d03ab4ae0f257577dd57f040fcc3a829ded513ac9434bbbd0d6dd09",
+      "reconciliation_fingerprint": "sha256:914f7602da1066ce356d2980d56e32941734e2b95a762c8da1beeb139df53087",
+      "updated_at": "2026-10-22 20:38:46"
+    },
+    {
+      "id": "ufo-case-ai:page:a8444dba010d8896e251497a",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-sighting-case-fi-6fd4a5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/case-files/",
+      "title": "Case Files",
+      "summary": "A useful UFO investigation starts by preserving witness accounts, checking photographs and reconstructing exactly when and where the sighting occurred.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-case-ai:page:54303296570efb529fcbb7b0"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "case-files"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5a0182a88cd8847e71393bc21a73c73efca0c41ca4a3d9cdaa64f33027903148",
+      "reconciliation_fingerprint": "sha256:e1b3c1a0c333392797fa87be1d414e1a80aeaa0d49f6de27cc3049188f948e34",
+      "updated_at": "2026-10-22 20:38:39"
+    },
+    {
+      "id": "ufo-case-ai:page:50801f8f7bd3bdcca9ddc0f3",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-sighting-case-fi-6fd4a5:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/ai-assisted-ufo-sigh-96e9bc-ufo-sighting/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Case Files, covering Sighting Timeline and Witness Interviews.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:a8444dba010d8896e251497a"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bba6410e41a161b6430de4aeb5f7e0a86e58c66e2cb8612ec68cc032977b7543",
+      "reconciliation_fingerprint": "sha256:e0fff08ccc83c42783c3aa881501672f3053d7c3c2edc95c38a6d2a9ac13ad88",
+      "updated_at": "2026-10-22"
+    },
+    {
+      "id": "ufo-case-ai:page:239b4b68017c301752c91b50",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-sighting-case-fi-6fd4a5-ufo-sighting-timelin-61ddaa",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/sighting-timeline/",
+      "title": "Sighting Timeline",
+      "summary": "A UFO sighting timeline can reveal what happened and when, provided uncertain times, viewing directions and recording gaps remain visible.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:a8444dba010d8896e251497a"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "case-files",
+        "sighting-timeline"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:aff129d6f142a914ba320eafba05d08174f4b9aa52391653ba11351ab32a0572",
+      "reconciliation_fingerprint": "sha256:0b75a641214246fef3ae5d50a9db866eff2d4873bf65ec6bc2fda07e9eeb0a8a",
+      "updated_at": "2026-10-22 20:38:42"
+    },
+    {
+      "id": "ufo-case-ai:page:36127f9e4370dfafb298203c",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-ufo-sighting-case-fi-6fd4a5-ufo-witness-intervie-a3462a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/witness-interviews/",
+      "title": "Witness Interviews",
+      "summary": "A careful UFO witness interview preserves what people actually saw while reducing leading questions, shared memories and later reinterpretations.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:a8444dba010d8896e251497a"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "case-files",
+        "witness-interviews"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:5e223671ad2b4536b7f2c4099c7c3231460a47c42b156bc17e3204352ce739d8",
+      "reconciliation_fingerprint": "sha256:fd09207861bf8a5dd170854b738f0e68c6893e69237fc42db8f293260c7c96f5",
+      "updated_at": "2026-10-22 20:38:41"
+    },
+    {
+      "id": "ufo-case-ai:page:4ba7a37d849d5a368984331f",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-unexplained-ufo-case-6a4fbb",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/unresolved-cases/",
+      "title": "Unresolved Cases",
+      "summary": "AI can compare earlier UFO cases and rank possible explanations, but missing records, weak matches and uncertain evidence can leave a sighting unresolved.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "ufo-case-ai:page:54303296570efb529fcbb7b0"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "unresolved-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:86938f9dde910b1f9a435d68e003d0be91cc5642064d5d32c6fbe9e2cc7e71a4",
+      "reconciliation_fingerprint": "sha256:73a0e535a0a4043d679aeac7a2c06da05e9def37c8a9830c4579da0518539441",
+      "updated_at": "2026-10-22 20:38:45"
+    },
+    {
+      "id": "ufo-case-ai:page:6100b300c61563b8b2bc4024",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-unexplained-ufo-case-6a4fbb-geipan-unexplained-u-7ae0b1",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/geipan-cases/",
+      "title": "GEIPAN Cases",
+      "summary": "GEIPAN's classifications distinguish UFO sightings with too little evidence from those that remain unidentified after detailed investigation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:4ba7a37d849d5a368984331f"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "unresolved-cases",
+        "geipan-cases"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:2c0c0f073ba343d115b865f13913de3e114b89fc4484c79d93ecbc48cfcacb7a",
+      "reconciliation_fingerprint": "sha256:2c49d738667b8193f348baf0a391ea257a91b82af42e7f11d779707014ce2e1f",
+      "updated_at": "2026-10-22 20:38:45"
+    },
+    {
+      "id": "ufo-case-ai:page:34a226e896646d6a48c82b53",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-unexplained-ufo-case-6a4fbb:index",
+      "identity_source": "generated_parent_logical_id",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/ai-assisted-ufo-sigh-96e9bc-unexplained/",
+      "title": "All Topics",
+      "summary": "Guide to sub-topic pages of Unresolved Cases, covering GEIPAN Cases and Conflicting Evidence.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:4ba7a37d849d5a368984331f"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:126925d195febdc1f87574387c1294570a03ce538b01eeccf30df3968ebb98f7",
+      "reconciliation_fingerprint": "sha256:a0c0bd6b4df41301ccde980d1a50f35f9616f460cc1c24aadbe0608fc63fe8ed",
+      "updated_at": "2026-10-22"
+    },
+    {
+      "id": "ufo-case-ai:page:8dc4bd25b5932099bcbf0881",
+      "logical_id": "ai-assisted-ufo-sigh-96e9bc-unexplained-ufo-case-6a4fbb-ufo-explanation-cont-1c02d7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://ufo-case-ai.branchoria.com/conflicting-evidence/",
+      "title": "Conflicting Evidence",
+      "summary": "A convincing UFO explanation can fail when reliable timing, position or movement evidence contradicts the proposed cause.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "ufo-case-ai:page:4ba7a37d849d5a368984331f"
+      },
+      "tags": [
+        "ai-assisted-ufo-sighting-investigation",
+        "unresolved-cases",
+        "conflicting-evidence"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:dca745b3b7c3da6c6d03b9d4962cbda55701d88f6913413ba7821724dee33f84",
+      "reconciliation_fingerprint": "sha256:d03a945c34fe806844a05fa888e3b0d7e7f6c962b0541f1a20ec5f3c1055c316",
+      "updated_at": "2026-10-22 20:38:47"
+    }
+  ]
+}
